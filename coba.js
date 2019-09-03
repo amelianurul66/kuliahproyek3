@@ -1,3 +1,7 @@
-function tambah (0,0){
-	return a,b;
+function tambah (a,b){
+	return a+b;
+}
+
+function kurang (a,b){
+	return a-b;
 }
